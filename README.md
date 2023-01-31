@@ -5,7 +5,7 @@
    “role” : “BackEnd Dev | Python-Django-DRF-Postgresql Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Linkedin" : "https://www.linkedin.com/in/angeldanielmendieta/", 
       "twitter"  : "https://twitter.com/admc09"
      }
  }
