@@ -15,7 +15,7 @@
 </div>
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Python Developer at XPERIS.
+- 👨🏽‍💻 I’m currently working as a Python Developer at LinkTIC.
 - 🌱 I’m currently working Python with a big interest in Microservicios and BigData. 
 - 🤔 My interests are web automation, data processing and developing some useful and cool stuff xD
 - 💼 I am studying systems engineering.
