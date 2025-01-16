@@ -2,10 +2,17 @@
 
 ```python
  { “name” : “Angel Daniel Mendieta”,
-   “role” : “BackEnd Dev | Python-Django-DRF-Postgresql Stack”,
+   “role” :
+     {  
+      "Languages" : “Python, SQL, Go ”,
+      "Frameworks": "Django, Django Rest Framework (DRF), Flask, FastAPI",
+      "Databases":  "PostgreSQL, MongoDB, MySQL, DynamoDB",
+      "DevOps":     "Docker, CI/CD, AWS (Lambda, DynamoDB, CloudWatch, CI/CD AWS)",
+      "Tools":      "Git (GitHub, GitLab, GitFlow), Metabase, Numpy",
+     },
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/angeldanielmendieta/", 
+      "Linkedin" : "[https://www.linkedin.com/in/angeldanielmendieta/](https://www.linkedin.com/in/danielmendietadeveloper/)", 
       "twitter"  : "https://twitter.com/admc09"
      }
  }
@@ -15,17 +22,17 @@
 </div>
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Python Developer at LinkTIC.
-- 🌱 I’m currently working Python with a big interest in Microservicios and BigData. 
+- 👨🏽‍💻 I’m currently working as a Python Developer, Data Analyst, and Process Automation Specialist using Python.
+- 🌱 I’m currently working Python with a big interest in BigData and LLM. 
 - 🤔 My interests are web automation, data processing and developing some useful and cool stuff xD
-- 💼 I am studying systems engineering.
+- 💼 I am Systems Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [danielmc0911@gmail.com](danielmc0911@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1T_xsKPytUc4jvOpOoH3pCbvVFkYFK45Z/view?usp=sharing) to get more info.
 
 
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeldanielmendieta/)](https://www.linkedin.com/in/angeldanielmendieta/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeldanielmendieta/)](https://www.linkedin.com/in/danielmendietadeveloper/)
   [![Twitter Badge](https://img.shields.io/badge/-@itoBackEnd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/admc09)](https://twitter.com/admc09)
   [![Gmail Badge](https://img.shields.io/badge/-DanielMendieta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielmc0911@gmail.com)](mailto:danielmc0911@gmail.com)
 
