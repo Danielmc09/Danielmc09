@@ -4,10 +4,10 @@
  { “name” : “Angel Daniel Mendieta”,
    “role” :
      {  
-      "Languages" : “Python, SQL, Go ”,
+      "Languages" : “Python, SQL”,
       "Frameworks": "Django, Django Rest Framework (DRF), Flask, FastAPI",
       "Databases":  "PostgreSQL, MongoDB, MySQL, DynamoDB",
-      "DevOps":     "Docker, CI/CD, AWS (Lambda, DynamoDB, CloudWatch, CI/CD AWS)",
+      "DevOps":     "Docker, CI/CD, AWS (Lambda, DynamoDB, CloudWatch)",
       "Tools":      "Git (GitHub, GitLab, GitFlow), Metabase, Numpy",
      },
    “data” : 
@@ -23,19 +23,14 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Python Developer, Data Analyst, and Process Automation Specialist using Python.
-- 🌱 I’m currently working Python with a big interest in BigData and LLM. 
+- 🌱 I’m currently working Python with a big interest in LLM. 
 - 🤔 My interests are web automation, data processing and developing some useful and cool stuff xD
 - 💼 I am Systems Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [danielmc0911@gmail.com](danielmc0911@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1T_xsKPytUc4jvOpOoH3pCbvVFkYFK45Z/view?usp=sharing) to get more info.
-
-
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeldanielmendieta/)](https://www.linkedin.com/in/danielmendietadeveloper/)
-  [![Twitter Badge](https://img.shields.io/badge/-@itoBackEnd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/admc09)](https://twitter.com/admc09)
   [![Gmail Badge](https://img.shields.io/badge/-DanielMendieta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielmc0911@gmail.com)](mailto:danielmc0911@gmail.com)
-
 
 <br>
 
@@ -44,13 +39,6 @@
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/django-%230175C2.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/djangorestframework%20-%23000.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/postgresql%20-%23E34F26.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-
-<br>
-
-## Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/4c6JNaUHpYiIgUNW6yg0Vh?si=377e0008efb549e9)
-
 
 <br>
 
