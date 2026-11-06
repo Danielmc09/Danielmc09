@@ -1,48 +1,116 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Angel Daniel Mendieta 👋</h1>
+
+<p align="center">
+  <b>Backend Software Engineer · Python · Security Engineering</b><br>
+  <i>6+ years building backends · Data processing · Offensive security & CTF player</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielmendietadeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/admc09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:danielmc0911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 👨🏽‍💻 About Me
 
 ```python
- { “name” : “Angel Daniel Mendieta”,
-   “role” :
-     {  
-      "Languages" : “Python, SQL”,
-      "Frameworks": "Django, Django Rest Framework (DRF), Flask, FastAPI",
-      "Databases":  "PostgreSQL, MongoDB, MySQL, DynamoDB",
-      "DevOps":     "Docker, CI/CD, AWS (Lambda, DynamoDB, CloudWatch)",
-      "Tools":      "Git (GitHub, GitLab, GitFlow), Metabase, Numpy",
-     },
-   “data” : 
-     { 
-      "Linkedin" : "[https://www.linkedin.com/in/angeldanielmendieta/](https://www.linkedin.com/in/danielmendietadeveloper/)", 
-      "twitter"  : "https://twitter.com/admc09"
-     }
- }
+class AngelMendieta:
+    def __init__(self):
+        self.role        = "Backend Software Engineer"
+        self.experience  = "6+ years"
+        self.core_stack  = ["Python", "SQL"]
+        self.focus       = ["Backend APIs", "Data Processing", "Cybersecurity"]
+        self.learning    = ["Offensive Security", "LLMs & AI", "Cloud"]
+        self.based_in    = "Colombia 🇨🇴 (remote-friendly, open to relocate 🌍)"
+
+    def say_hi(self):
+        print("Ask me anything — I love to answer! 🚀")
 ```
-<div> 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
-**About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Python Developer, Data Analyst, and Process Automation Specialist using Python.
-- 🌱 I’m currently working Python with a big interest in LLM. 
-- 🤔 My interests are web automation, data processing and developing some useful and cool stuff xD
-- 💼 I am Systems Engineering.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [danielmc0911@gmail.com](danielmc0911@gmail.com).
+- 🐍 **Python is my home.** Years of building backends, APIs and data pipelines — it's where I'm strongest and where I keep growing.
+- 🔐 **Security Engineering specialist.** Postgraduate specialization in Information Security (cybersecurity & network security).
+- 🏆 **Competitive CTF player & hackathon builder** — I turn ideas into working systems under pressure.
+- 🤖 Big interest in **LLMs**, automation and building useful, cool stuff.
+- 💬 Ask me about Python, backend architecture, data processing or security.
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeldanielmendieta/)](https://www.linkedin.com/in/danielmendietadeveloper/)
-  [![Gmail Badge](https://img.shields.io/badge/-DanielMendieta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielmc0911@gmail.com)](mailto:danielmc0911@gmail.com)
+---
 
-<br>
+### 🏆 Achievements
 
-## Languages and Tools:
+- 🥉 **3rd place — CTF at DragonJAR Security Conference 2026** with team MECA, one of LATAM's top security events.
+- 🧩 Active participant in competitive **hackathons**, shipping end-to-end projects on tight deadlines.
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/django-%230175C2.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/djangorestframework%20-%23000.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/postgresql%20-%23E34F26.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+---
 
-<br>
+### 🛠️ Tech Stack
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+**Backend Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Data & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielmc09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmc09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielmc09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danielmc09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  📫 Reach me at <a href="mailto:danielmc0911@gmail.com">danielmc0911@gmail.com</a>
+</p>
