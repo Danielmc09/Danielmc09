@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danielmc09&style=flat&color=0A66C2&label=Profile+views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Danielmc09?style=flat&logo=github&label=Followers&color=181717" alt="Followers"/>
+</p>
+
 ---
 
 ### 👨🏽‍💻 About Me
@@ -94,19 +99,10 @@ class AngelMendieta:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielmc09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmc09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielmc09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danielmc09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
 ---
